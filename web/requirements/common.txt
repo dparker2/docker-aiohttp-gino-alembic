@@ -1,0 +1,6 @@
+aiohttp
+gino
+gino-aiohttp
+alembic
+psycopg2
+marshmallow
